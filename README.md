@@ -1,0 +1,1 @@
+- 使用 jsDelivr 提供CDN加速：https://cdn.jsdelivr.net/gh/Luyi365/gists-image-host@main/文件名
